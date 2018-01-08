@@ -4,8 +4,8 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 
-const char* ssid = "JJHF";
-const char* password = "LJd1O15idBwmjpi";
+const char* ssid = "*****";
+const char* password = "*****";
 const char* host = "192.168.178.34";
 Adafruit_BMP085 bmp;
   
